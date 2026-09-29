@@ -19,4 +19,4 @@ ISTQB CTAL-TA · ISTQB CTFL · OCEB 2 · Microsoft Azure AI
 - [functional-analysis-toolkit](https://github.com/iuliagarbacea/functional-analysis-toolkit) — the templates I actually use: user stories, acceptance criteria, traceability matrix, test register, decision register, document control, coherence audit.
 
 **Elsewhere**
-[digitalsage.ro](https://digitalsage.ro) · hello@digitalsage.ro · Bucharest, Romania
+[LinkedIn](https://www.linkedin.com/in/iuliagarbacea/) · [digitalsage.ro](https://digitalsage.ro) · hello@digitalsage.ro · Bucharest, Romania
