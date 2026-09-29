@@ -3,7 +3,7 @@
 Functional analyst and tester. I turn vague requirements into things a team can build, test and sign off.
 
 **What I do**
-- Functional analysis and testing on large public-sector Drupal platforms, via an outsourcing partner (since 2022).
+- Functional analysis and testing on large public-sector Drupal platforms (since 2022).
 - Before that: ERP and process work across SAP, Oracle EBS and Oracle Fusion. Procurement, order management, finance.
 - On the side: [clasificat.ro](https://clasificat.ro), a self-serve compliance kit for Romanian short-term rental hosts. I am customer zero.
 
